@@ -1,0 +1,36 @@
+JavaScript 
+Note: 
+Code Runner & Nodejs - installed for running js on VS editor
+Sandbox - for online editor
+
+Data Types:
+    Premitive & Non-Premitive data Types
+
+    Premitive Data Types:
+        Char -'a'
+        String - "Azmath"
+        number - 1234
+        int, bigint, shortint, long,float, double
+        Boolean - T/F
+        Null - empty
+        Udefine (does not exist / not defined)
+
+    Non-Premitive data Types:
+        Object
+        Arrays    
+
+Variables 
+    var (global scope)
+    let (functional scope)
+    const
+
+    var a;  // declaration
+    a = 10; // initialisation
+    var b = 20 // declaration & initialisation
+
+    var a = 10;
+    var b = "Azmath"
+    var c = '2' / 'd'
+
+ https://thecodest.co/blog/asynchronous-and-single-threaded-javascript-meet-the-event-loop/
+
